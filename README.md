@@ -7,6 +7,7 @@ Tracking my DSA journey through LeetCode challenges.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KESAV4N-GIT/Leetcode-challenge/tree/master/0001-two-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/KESAV4N-GIT/Leetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ Tracking my DSA journey through LeetCode challenges.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KESAV4N-GIT/Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/KESAV4N-GIT/Leetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
