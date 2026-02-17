@@ -9,7 +9,7 @@ class Solution {
         int left=maxweight;
         int right=total;
         while(left<right){
-            int mid=left+(right-left)/2;
+            int mid=(left+right)/2;
             if(ship(weights,days,mid)){
                 right=mid;
             }
